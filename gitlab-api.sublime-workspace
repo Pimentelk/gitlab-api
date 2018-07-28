@@ -1,0 +1,1710 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getMerge",
+				"getMergeRequests"
+			],
+			[
+				"featu",
+				"feature_list"
+			],
+			[
+				"merge_request",
+				"merge_request_iid\t(GitLab.php)"
+			],
+			[
+				"forea",
+				"foreach\tforeach …"
+			],
+			[
+				"foreac",
+				"foreach"
+			],
+			[
+				"merge",
+				"merge_request_iid"
+			],
+			[
+				"Repos",
+				"Repository\t(Repository.php)"
+			],
+			[
+				"register",
+				"registerBladeAliases"
+			],
+			[
+				"regist",
+				"registerObservers"
+			],
+			[
+				"des",
+				"description\t(background-attachment.json)"
+			],
+			[
+				"dis",
+				"display\tproperty"
+			],
+			[
+				"text",
+				"textarea\tTag"
+			],
+			[
+				"script",
+				"scripts\t(index.blade.php)"
+			],
+			[
+				"form",
+				"form\tTag"
+			],
+			[
+				"Sub",
+				"Sub-Title"
+			],
+			[
+				"Post",
+				"PostRepository"
+			],
+			[
+				"divider",
+				"divider_image\t(settings.php)"
+			],
+			[
+				"contact",
+				"contact_description\t(settings.php)"
+			],
+			[
+				"more_",
+				"more_label\t(settings.php)"
+			],
+			[
+				"divi",
+				"divider_description\t(settings.php)"
+			],
+			[
+				"skill",
+				"skill_title\t(settings.php)"
+			],
+			[
+				"about_",
+				"about_body\t(settings.php)"
+			],
+			[
+				"about",
+				"about_body\t(settings.php)"
+			],
+			[
+				"work_",
+				"work_description\t(settings.php)"
+			],
+			[
+				"work",
+				"work_title\t(settings.php)"
+			],
+			[
+				"proc",
+				"processes"
+			],
+			[
+				"Http",
+				"HttpException"
+			],
+			[
+				"layou",
+				"layouts\t(blank.blade.php)"
+			],
+			[
+				"insta",
+				"instanceof\t(jquery.backstretch.js)"
+			],
+			[
+				"lay",
+				"layouts\t(blank.blade.php)"
+			],
+			[
+				"srcM",
+				"srcMobirise"
+			],
+			[
+				"styl",
+				"style\tTag"
+			],
+			[
+				"event_st",
+				"event_staff_stations"
+			],
+			[
+				"Advent",
+				"AdventController\t(AdventController.php)"
+			],
+			[
+				"site_",
+				"site_contact\t(Event.php)"
+			],
+			[
+				"sql",
+				"sqlite_testing\t(database.php)"
+			],
+			[
+				"Refre",
+				"RefreshDatabase"
+			],
+			[
+				"Datab",
+				"DatabaseTransactions"
+			],
+			[
+				"op",
+				"opacity\tproperty"
+			],
+			[
+				"line",
+				"line-height\tproperty"
+			],
+			[
+				"background-",
+				"background-image\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"tes",
+				"testimonial"
+			],
+			[
+				"Test",
+				"Testimonial\t(Testimonial.php)"
+			],
+			[
+				"toggle",
+				"toggleNavPosition"
+			],
+			[
+				"test",
+				"testimonials"
+			],
+			[
+				"ver",
+				"vertical-align\t(admin.css)"
+			],
+			[
+				"info",
+				"infowindow"
+			],
+			[
+				"scop",
+				"scope"
+			],
+			[
+				"getDefault",
+				"getDefaultValueForField"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"hae",
+				"header\tTag"
+			],
+			[
+				"option",
+				"optional\t(edit.blade.php)"
+			],
+			[
+				"config",
+				"constants.DEFAULT_SETTINGS_ID"
+			],
+			[
+				"constan",
+				"constants.DEFAULT_SETTINGS_ID\t(breadcrumbs.php)"
+			],
+			[
+				"constants",
+				"constants.DEFAULT_SETTINGS_ID\t(SettingController.php)"
+			],
+			[
+				"Con",
+				"Controllers"
+			],
+			[
+				"Contr",
+				"Controller"
+			],
+			[
+				"Servic",
+				"ServiceProvider\t(BlogServiceProvider.php)"
+			],
+			[
+				"div",
+				"divider"
+			],
+			[
+				"medi",
+				"medium_ids"
+			],
+			[
+				"url",
+				"url_id"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"AdWord",
+				"AdWordsService"
+			],
+			[
+				"Servi",
+				"Service"
+			],
+			[
+				"google",
+				"google_map_key\t(edit.blade.php)"
+			],
+			[
+				"Meta",
+				"Metadata"
+			],
+			[
+				"cam",
+				"campaign"
+			],
+			[
+				"camp",
+				"campaign\t(home.blade.php)"
+			],
+			[
+				"Campai",
+				"Campaign\t(home.blade.php)"
+			],
+			[
+				"campai",
+				"campaigns"
+			],
+			[
+				"Catego",
+				"CategorySeeder\t(CategorySeeder.php)"
+			],
+			[
+				"task",
+				"tasklist"
+			],
+			[
+				"Ma",
+				"Mail"
+			],
+			[
+				"Mail",
+				"Mail::send\tSend a new message using a view."
+			],
+			[
+				"exec",
+				"execute\t(pdo_named.php)"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"glo",
+				"global\t(view_tasks.php)"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"the",
+				"thead\tTag"
+			],
+			[
+				"Handl",
+				"HandlerStack"
+			],
+			[
+				"Cli",
+				"ClientException"
+			],
+			[
+				"Client",
+				"ClientException\t(advanced.php)"
+			],
+			[
+				"v",
+				"var_dump"
+			],
+			[
+				"in",
+				"in_array"
+			],
+			[
+				"pro",
+				"promise2"
+			],
+			[
+				"caret",
+				"caret_style\t(Preferences.sublime-settings)"
+			],
+			[
+				"font_",
+				"font_face\t(Preferences.sublime-settings)"
+			],
+			[
+				"trim",
+				"trim_trailing_white_space_on_save\t(Preferences.sublime-settings)"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"csrf",
+				"csrf_token\tL5 Csrf Token"
+			],
+			[
+				"Time",
+				"TimeDisplayPipe\talias"
+			],
+			[
+				"sty",
+				"styleUrls\tproperty"
+			],
+			[
+				"temp",
+				"templateUrl\tproperty"
+			],
+			[
+				"Ht",
+				"HttpModule\talias"
+			],
+			[
+				"Ob",
+				"Observable\talias"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"switch",
+				"switchMap\tscript"
+			],
+			[
+				"num",
+				"numbers$\tconst"
+			],
+			[
+				"obser",
+				"observer\tparameter"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"Option",
+				"OptionsComponent\talias"
+			],
+			[
+				"is",
+				"isPlaying\tproperty"
+			],
+			[
+				"current",
+				"currentTitle\tproperty"
+			],
+			[
+				"sy",
+				"systemjs"
+			],
+			[
+				"boo",
+				"bootstrap\talias"
+			],
+			[
+				"bootstr",
+				"bootstrap"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"add",
+				"addslashes"
+			],
+			[
+				"html",
+				"htmlspecialchars_decode"
+			],
+			[
+				"wor",
+				"workout_type"
+			],
+			[
+				"compo",
+				"components"
+			],
+			[
+				"workout",
+				"workout_types"
+			],
+			[
+				"show",
+				"showEditButtons"
+			],
+			[
+				"edit",
+				"edited"
+			],
+			[
+				"com",
+				"component"
+			],
+			[
+				"lists",
+				"lists"
+			],
+			[
+				"componen",
+				"component"
+			],
+			[
+				"Full",
+				"FullCalendar"
+			],
+			[
+				"n",
+				"nprogress"
+			],
+			[
+				"nProgress",
+				"NProgress"
+			],
+			[
+				"j",
+				"jquery"
+			],
+			[
+				"jqu",
+				"jquery"
+			],
+			[
+				"J",
+				"jQuery"
+			],
+			[
+				"Vue",
+				"VueRouter"
+			],
+			[
+				"le",
+				"length"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"make:con",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"MakeModel",
+				"Laravel Artisan 5: Make:Model"
+			],
+			[
+				"make:mi",
+				"Laravel Artisan 5: Make:Migration"
+			],
+			[
+				"make:modle",
+				"Laravel Artisan 5: Make:Model"
+			],
+			[
+				"model",
+				"Laravel Artisan 5: Make:Model"
+			],
+			[
+				"controller",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"contro",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"makeCon",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"make:model",
+				"Laravel Artisan 5: Make:Model"
+			],
+			[
+				"make",
+				"Laravel Artisan 5: Make:Migration"
+			],
+			[
+				"toggle",
+				"Emmet: Toggle Comment"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"make mod",
+				"Laravel Artisan 5: Make:Model"
+			],
+			[
+				"make migra",
+				"Laravel Artisan 5: Make:Migration"
+			],
+			[
+				"refresh",
+				"Laravel Artisan 5: Migrate:Refresh"
+			],
+			[
+				"roll",
+				"Laravel Artisan 5: Migrate:Rollback"
+			],
+			[
+				"reset",
+				"Laravel Artisan 5: Migrate:Reset"
+			],
+			[
+				"makemod",
+				"Laravel Artisan 5: Make:Model"
+			],
+			[
+				"seed",
+				"Laravel Artisan 5: Make:Seeder"
+			],
+			[
+				"migrate",
+				"Laravel Artisan 5: Migrate:Refresh"
+			],
+			[
+				"migrate reset",
+				"Laravel Artisan 5: Migrate:Reset"
+			],
+			[
+				"make mode",
+				"Laravel Artisan 5: Make:Model"
+			],
+			[
+				"make con",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"make mo",
+				"Laravel Artisan 5: Make:Model"
+			],
+			[
+				"artisan refresh",
+				"Laravel Artisan 5: Migrate:Refresh"
+			],
+			[
+				"artisan make mod",
+				"Laravel Artisan 5: Make:Model"
+			],
+			[
+				"artisan refre",
+				"Laravel Artisan 5: Migrate:Refresh"
+			],
+			[
+				"artisan make mo",
+				"Laravel Artisan 5: Make:Model"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"artisan cache:table",
+				"Laravel Artisan 5: Cache:Table"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"phpcs",
+				"PHPCompanion:Import Namespace"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"toggle menu",
+				"View: Toggle Menu"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove package",
+				"Package Control: Remove Package"
+			],
+			[
+				"artisan reset",
+				"Laravel Artisan 5: Migrate:Reset"
+			],
+			[
+				"sideb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"toggle me",
+				"View: Toggle Menu"
+			],
+			[
+				"artisan cach",
+				"Laravel Artisan 5: Cache:Clear"
+			],
+			[
+				"artisan route",
+				"Laravel Artisan 5: Route:List"
+			],
+			[
+				"mi",
+				"Laravel Artisan 5: Migrate:Refresh"
+			],
+			[
+				"migra",
+				"Laravel Artisan 5: Migrate:Refresh"
+			],
+			[
+				"artisan up",
+				"Laravel Artisan 5: Up"
+			],
+			[
+				"artisan down",
+				"Laravel Artisan 5: Down"
+			],
+			[
+				"artisan serve",
+				"Laravel Artisan 5: Serve"
+			],
+			[
+				"artis li",
+				"Laravel Artisan 5: List"
+			],
+			[
+				"toggle tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"toggle sid",
+				"View: Toggle Side Bar"
+			],
+			[
+				"artisan li",
+				"Laravel Artisan 5: List"
+			],
+			[
+				"resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"resources",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"php",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"PackageResource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"PHPCompanion",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Class"
+			],
+			[
+				"artisan event:",
+				"Laravel Artisan 5: Event:Generate"
+			],
+			[
+				"toggle si",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"Material",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: List Packages"
+			],
+			[
+				"Laravel",
+				"Snippet: Pushes the given job onto the Laravel job queue."
+			],
+			[
+				"PHP",
+				"PHPCompanion:Import Namespace"
+			]
+		],
+		"width": 1203.0
+	},
+	"console":
+	{
+		"height": 265.0,
+		"history":
+		[
+			"which phpmd",
+			"which phpcs ./",
+			"which phpcs;",
+			"which phpcs"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/kevinpimentel.com/app/Http/Controllers/BlogController.php",
+		"/C/xampp/htdocs/kevinpimentel.com/app/Http/Controllers/AboutController.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/setting/index.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/config/settings.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/setting/fields/file.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/setting/fields/text.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/layouts/contact.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/layouts/app.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/home.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/blog/index.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/components/background.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/layouts/footer.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/layouts/more.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/layouts/divider.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/layouts/process.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/app/Http/Controllers/SettingController.php",
+		"/C/xampp/htdocs/kevinpimentel.com/database/migrations/2018_06_12_090835_create_blog_table.php",
+		"/C/xampp/htdocs/kevinpimentel.com/routes/web.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/post/index.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/components/post.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/database/migrations/2018_06_10_025503_create_admin_migration.php",
+		"/C/xampp/htdocs/kevinpimentel.com/app/Models/Post.php",
+		"/C/xampp/htdocs/kevinpimentel.com/app/Repository/PostRepository.php",
+		"/C/xampp/htdocs/kevinpimentel.com/app/Http/Controllers/PostController.php",
+		"/C/xampp/htdocs/kevinpimentel.com/app/Http/Controllers/TagController.php",
+		"/C/xampp/htdocs/kevinpimentel.com/app/Http/Controllers/MenuController.php",
+		"/C/xampp/htdocs/kevinpimentel.com/app/Models/Tag.php",
+		"/C/xampp/htdocs/kevinpimentel.com/.env",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/layouts/admin.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/layouts/work.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/layouts/about.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/layouts/alert.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/components/card.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/layouts/header.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/app/Utils/helpers.php",
+		"/C/xampp/htdocs/kevinpimentel.com/app/Models/Setting.php",
+		"/C/xampp/htdocs/kevinpimentel.com/composer.json",
+		"/C/xampp/htdocs/kevinpimentel.com/webpack.mix.js",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/blank.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/layouts/admin/head.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/layouts/admin/modal.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/node_modules/errno/custom.js",
+		"/C/xampp/htdocs/kevinpimentel.com/public/assets/js/custom.js",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/assets/js/custom.js",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/layouts/admin/sidebar.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/app/Models/Menu.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/layouts/sidebar.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/errors/default.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/menu/index.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/component/datapanel.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/menu/edit.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/app/Exceptions/Handler.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/layouts/error.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/layouts/preloader.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/views/500.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/assets/css/pages/404.css",
+		"/C/xampp/htdocs/kevinpimentel.com/.bowerrc",
+		"/C/xampp/htdocs/kevinpimentel.com/bower.json",
+		"/C/xampp/htdocs/kevinpimentel.com/app/Http/Controllers/DashboardController.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/index1.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/mail_inbox.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/about/index.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/login3.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/layouts/auth.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/public/assets/js/pages/login3.js",
+		"/C/xampp/htdocs/kevinpimentel.com/node_modules/jquery-backstretch/jquery.backstretch.js",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/auth/login.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/register1.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/auth/register.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/about/show.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/index.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/components/count.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/dashboard/index.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/components/inbox.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/setting/index.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/vendor/laravel/framework/src/Illuminate/Mail/resources/views/html/table.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/assets/sass/bootstrap/app.scss",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/layouts/navbar.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/layouts/admin/navbar.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/app/Http/Controllers/HomeController.php",
+		"/C/xampp/htdocs/kevinpimentel.com/vendor/laravel/framework/src/Illuminate/Auth/Console/stubs/make/controllers/HomeController.stub",
+		"/C/xampp/htdocs/kevinpimentel.com/app/Http/Controllers/Admire2Controller.php",
+		"/C/xampp/htdocs/kevinpimentel.com/node_modules/caniuse-db/region-usage-json/MV.json",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/errors/500.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/resources/views/errors/404.blade.php",
+		"/C/xampp/htdocs/kevinpimentel.com/app/Menu.php",
+		"/C/xampp/htdocs/MSU/app/Providers/ComposerServiceProvider.php",
+		"/C/xampp/htdocs/MSU/.env",
+		"/C/xampp/htdocs/MSU/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/xampp/htdocs/MSU/app/Http/Controllers/Auth/RegisterController.php",
+		"/C/xampp/htdocs/MSU/database/migrations/2018_05_21_134745_create_stations_table.php",
+		"/C/xampp/htdocs/MSU/resources/views/event/create.blade.php",
+		"/C/xampp/htdocs/MSU/app/Models/Event.php",
+		"/C/xampp/htdocs/MSU/app/Http/Controllers/EventController.php",
+		"/C/xampp/htdocs/MSU/resources/views/event/edit.blade.php",
+		"/C/xampp/htdocs/MSU/resources/views/event/index.blade.php",
+		"/C/xampp/htdocs/MSU/routes/web.php",
+		"/C/xampp/htdocs/MSU/routes/api.php",
+		"/C/xampp/htdocs/MSU/resources/assets/js/bootstrap.js",
+		"/C/xampp/htdocs/MSU/resources/views/event/station/edit.blade.php",
+		"/C/xampp/htdocs/MSU/resources/views/staff/create.blade.php",
+		"/C/xampp/htdocs/MSU/resources/views/calendar/index.blade.php",
+		"/C/xampp/htdocs/MSU/resources/views/calendar/advent/index.blade.php",
+		"/C/xampp/htdocs/MSU/resources/views/calendar/advent/advent/edit.blade.php",
+		"/C/xampp/htdocs/MSU/resources/views/calendar/advent/advent/advent/show.blade.php",
+		"/C/xampp/htdocs/MSU/resources/views/calendar/advent/advent/advent/advent/create.blade.php",
+		"/C/xampp/htdocs/MSU/webpack.mix.js",
+		"/C/xampp/htdocs/MSU/app/Http/Controllers/CalendarController.php",
+		"/C/xampp/htdocs/MSU/app/Http/Controllers/AdventController.php",
+		"/C/xampp/htdocs/MSU/app/Models/Advent.php",
+		"/C/xampp/htdocs/MSU/database/migrations/2018_06_01_185533_create_advents_table.php",
+		"/C/xampp/htdocs/MSU/database/seeds/AdventTableSeeder.php",
+		"/C/xampp/htdocs/MSU/database/factories/AdventFactory.php",
+		"/C/xampp/htdocs/MSU/database/seeds/DatabaseSeeder.php",
+		"/C/xampp/htdocs/MSU/app/Http/Controllers/API/AdventController.php",
+		"/C/xampp/htdocs/MSU/resources/assets/js/angle.js",
+		"/C/xampp/htdocs/MSU/config/breadcrumbs.php",
+		"/C/xampp/htdocs/MSU/routes/breadcrumbs.php",
+		"/C/xampp/htdocs/MSU/resources/views/layouts/admin.blade.php",
+		"/C/xampp/htdocs/MSU/resources/views/layouts/sidebar.blade.php",
+		"/C/xampp/htdocs/MSU/resources/assets/js/app.js",
+		"/C/xampp/htdocs/MSU/node_modules/js-storage/js.storage.js",
+		"/C/xampp/htdocs/MSU/resources/assets/sass/app.scss",
+		"/C/xampp/htdocs/MSU/resources/views/components/services.blade.php",
+		"/C/xampp/htdocs/MSU/app/Models/Task.php",
+		"/C/xampp/htdocs/MSU/app/Models/Role.php"
+	],
+	"find":
+	{
+		"height": 88.0
+	},
+	"find_in_files":
+	{
+		"height": 221.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"merge_request_iid",
+			"getAllMergedFeatures",
+			"getMergeRequests",
+			"unique_features",
+			"feature_list",
+			"feature",
+			"unique_features",
+			"Brnach",
+			"project",
+			"<script src=\"",
+			"string $id, ",
+			"int",
+			"Model",
+			"$request->input(",
+			"status",
+			"active",
+			"status",
+			"region",
+			"type",
+			"card",
+			"destVendors",
+			"vendors",
+			"summernote",
+			"paths.summernote",
+			"summer",
+			"Post $post",
+			"(Post",
+			"StorePostRequest",
+			"old('",
+			"title",
+			"p",
+			"files",
+			"div",
+			"string",
+			"post",
+			"tab",
+			"menu",
+			"$menu",
+			"menu",
+			"post",
+			"title",
+			"file",
+			"BlueTangerine\\Blog\\Controllers\\",
+			"model",
+			"PostRepository",
+			"BlueTangerine\\Blog\\Controllers\\",
+			"integer",
+			"Schema::dropIfExists('",
+			"Schema::create('",
+			"background image",
+			"file",
+			"banner_image",
+			"file",
+			"alert",
+			"about_body",
+			"divider",
+			"work",
+			"getDefinedSettingFields",
+			"getDataType",
+			"config",
+			"getDefinedSettingFields",
+			"Setting::",
+			"required|min:2|max:50",
+			"file",
+			"Settings",
+			"settings",
+			"sent_to_mailview",
+			"tab-pane table-responsive reset padding-all fade",
+			"primary",
+			"'bg' => '",
+			"{{ number_format(rand(1,9999)) }}",
+			"process",
+			"dashboard",
+			"contact",
+			"work",
+			"about",
+			"th",
+			"menu",
+			"mbr-gallery-item mbr-gallery-item--p1",
+			"blank",
+			"demo",
+			"$demo",
+			"$body",
+			"no-print",
+			"$e",
+			"{{asset",
+			"cid-qSPazGexGK",
+			".cid-qSPazGexGK",
+			"destMobirise",
+			"+ '",
+			"mobirise/",
+			"mobirise",
+			"'mobirise",
+			"mobirise",
+			"asset('",
+			"assets",
+			"<link rel=\"stylesheet\" ",
+			"font",
+			"bowervendors",
+			"mv.",
+			"bowervendors",
+			"newsTicker"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 50.0
+	},
+	"input":
+	{
+		"height": 91.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 66.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 274.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 96.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"src\\GitLab.php"
+			],
+			[
+				"gitl",
+				"src\\GitLab.php"
+			],
+			[
+				"in",
+				"index.php"
+			],
+			[
+				"Gitl",
+				"src\\GitLab.php"
+			],
+			[
+				"GitLab",
+				"src\\GitLab.php"
+			],
+			[
+				"compos",
+				"composer.json"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"GitLa",
+				"src\\GitLab.php"
+			],
+			[
+				"compo",
+				"composer.json"
+			],
+			[
+				"AgeRepo",
+				"app\\Repositories\\AgencyRepository.php"
+			],
+			[
+				"agency/in",
+				"resources\\views\\agency\\index.blade.php"
+			],
+			[
+				"EventCOn",
+				"app\\Http\\Controllers\\EventController.php"
+			],
+			[
+				"AgencyCOn",
+				"app\\Http\\Controllers\\AgencyController.php"
+			],
+			[
+				"AgeCon",
+				"app\\Http\\Controllers\\AgencyController.php"
+			],
+			[
+				"AgencyRe",
+				"app\\Http\\Requests\\AgencyRequest.php"
+			],
+			[
+				"EventRequest",
+				"app\\Http\\Requests\\EventRequest.php"
+			],
+			[
+				"Eventrequ",
+				"app\\Http\\Requests\\EventRequest.php"
+			],
+			[
+				"EventC",
+				"app\\Http\\Controllers\\EventController.php"
+			],
+			[
+				"AgencyCon",
+				"app\\Http\\Controllers\\AgencyController.php"
+			],
+			[
+				"EventRepo",
+				"app\\Repositories\\EventRepository.php"
+			],
+			[
+				"EventCon",
+				"app\\Http\\Controllers\\EventController.php"
+			],
+			[
+				"ASP",
+				"app\\Providers\\AppServiceProvider.php"
+			],
+			[
+				"event/in",
+				"resources\\views\\event\\index.blade.php"
+			],
+			[
+				"prenav",
+				"resources\\views\\layouts\\prenav.blade.php"
+			],
+			[
+				"admin.b",
+				"resources\\views\\layouts\\admin.blade.php"
+			],
+			[
+				"Inventory",
+				"app\\Models\\Inventory.php"
+			],
+			[
+				"inventoOb",
+				"app\\Observers\\InventoryObserver.php"
+			],
+			[
+				"inventory/in",
+				"resources\\views\\inventory\\index.blade.php"
+			],
+			[
+				"task/in",
+				"resources\\views\\task\\index.blade.php"
+			],
+			[
+				"advent/in",
+				"resources\\views\\calendar\\advent\\index.blade.php"
+			],
+			[
+				"calendar/in",
+				"resources\\views\\calendar\\index.blade.php"
+			],
+			[
+				"contact/in",
+				"resources\\views\\contact\\index.blade.php"
+			],
+			[
+				"staff/in",
+				"resources\\views\\staff\\index.blade.php"
+			],
+			[
+				"User",
+				"app\\User.php"
+			],
+			[
+				"UserOb",
+				"app\\Observers\\UserObserver.php"
+			],
+			[
+				"admin",
+				"resources\\views\\layouts\\admin.blade.php"
+			],
+			[
+				"button",
+				"resources\\views\\components\\button.blade.php"
+			],
+			[
+				"btngrou",
+				"resources\\views\\components\\btngroup.blade.php"
+			],
+			[
+				"btngr",
+				"resources\\views\\components\\btngroup.blade.php"
+			],
+			[
+				"agency.",
+				"app\\Models\\Agency.php"
+			],
+			[
+				"role/in",
+				"resources\\views\\role\\index.blade.php"
+			],
+			[
+				"RSP",
+				"app\\Providers\\RouteServiceProvider.php"
+			],
+			[
+				"RolOb",
+				"app\\Observers\\RoleObserver.php"
+			],
+			[
+				"ROle",
+				"app\\Models\\Role.php"
+			],
+			[
+				"role/",
+				"resources\\views\\role\\index.blade.php"
+			],
+			[
+				"btngroup",
+				"resources\\views\\components\\btngroup.blade.php"
+			],
+			[
+				"Role/in",
+				"resources\\views\\role\\index.blade.php"
+			],
+			[
+				"webpa",
+				"webpack.mix.js"
+			],
+			[
+				"event/form/edi",
+				"resources\\views\\event\\form\\edit.blade.php"
+			],
+			[
+				"contro",
+				"app\\Http\\Controllers\\Controller.php"
+			],
+			[
+				"eventcon",
+				"app\\Http\\Controllers\\EventController.php"
+			],
+			[
+				"post/cre",
+				"resources\\views\\post\\create.blade.php"
+			],
+			[
+				"webpac",
+				"webpack.mix.js"
+			],
+			[
+				"package.",
+				"package.json"
+			],
+			[
+				"MenuReq",
+				"app\\Http\\Requests\\MenuRequest.php"
+			],
+			[
+				"menucon",
+				"app\\Http\\Controllers\\MenuController.php"
+			],
+			[
+				"post/list",
+				"resources\\views\\post\\list.blade.php"
+			],
+			[
+				"menu/in",
+				"resources\\views\\menu\\index.blade.php"
+			],
+			[
+				"PostR",
+				"app\\Repository\\PostRepository.php"
+			],
+			[
+				"Repos",
+				"app\\Repository\\RepositoryInterface.php"
+			],
+			[
+				"MenuRepo",
+				"app\\Repository\\MenuRepository.php"
+			],
+			[
+				"PosRe",
+				"app\\Repository\\PostRepository.php"
+			],
+			[
+				"PostRepo",
+				"app\\Repository\\RepositoryInterface.php"
+			],
+			[
+				"post/edit",
+				"resources\\views\\post\\edit.blade.php"
+			],
+			[
+				"formrow",
+				"resources\\views\\components\\formrow.blade.php"
+			],
+			[
+				"rules",
+				"config\\rules.php"
+			],
+			[
+				"PostRe",
+				"app\\Repository\\PostRepository.php"
+			],
+			[
+				"postcon",
+				"app\\Http\\Controllers\\PostController.php"
+			],
+			[
+				"Repository",
+				"app\\Repository\\PostRepository.php"
+			],
+			[
+				"RepoInt",
+				"app\\Repository\\RepositoryInterface.php"
+			],
+			[
+				"create.bla",
+				"resources\\views\\post\\create.blade.php"
+			],
+			[
+				"compo/card",
+				"resources\\views\\components\\card.blade.php"
+			],
+			[
+				"compo/post",
+				"resources\\views\\components\\post.blade.php"
+			],
+			[
+				"app.b",
+				"resources\\views\\layouts\\app.blade.php"
+			],
+			[
+				"compo/car",
+				"resources\\views\\components\\card.blade.php"
+			],
+			[
+				"post/in",
+				"resources\\views\\post\\index.blade.php"
+			],
+			[
+				"card.bl",
+				"resources\\views\\components\\card.blade.php"
+			],
+			[
+				"settingcon",
+				"app\\Http\\Controllers\\SettingController.php"
+			],
+			[
+				"file.bl",
+				"resources\\views\\setting\\fields\\file.blade.php"
+			],
+			[
+				"setting/in",
+				"resources\\views\\setting\\index.blade.php"
+			],
+			[
+				"post/crea",
+				"resources\\views\\post\\create.blade.php"
+			],
+			[
+				"create_blo",
+				"database\\migrations\\2018_06_12_090835_create_blog_table.php"
+			],
+			[
+				"post/sho",
+				"resources\\views\\post\\show.blade.php"
+			],
+			[
+				"compo/po",
+				"resources\\views\\components\\post.blade.php"
+			],
+			[
+				"PostCOn",
+				"app\\Http\\Controllers\\PostController.php"
+			],
+			[
+				"Post",
+				"app\\Models\\Post.php"
+			],
+			[
+				"list.bl",
+				"resources\\views\\post\\list.blade.php"
+			],
+			[
+				"Reposito",
+				"app\\Repository\\PostRepository.php"
+			],
+			[
+				"r/we",
+				"routes\\web.php"
+			],
+			[
+				"admi",
+				"resources\\views\\layouts\\admin.blade.php"
+			],
+			[
+				"post/creat",
+				"resources\\views\\post\\create.blade.php"
+			],
+			[
+				"admin.bl",
+				"resources\\views\\layouts\\admin.blade.php"
+			],
+			[
+				"compon/table",
+				"resources\\views\\components\\table.blade.php"
+			],
+			[
+				"sidebar",
+				"resources\\views\\layouts\\admin\\sidebar.blade.php"
+			],
+			[
+				"index.blade.php",
+				"resources\\views\\post\\index.blade.php"
+			],
+			[
+				"BlogCon",
+				"app\\Http\\Controllers\\BlogController.php"
+			],
+			[
+				"PostCOntro",
+				"app\\Http\\Controllers\\PostController.php"
+			],
+			[
+				"menu/edit",
+				"resources\\views\\menu\\edit.blade.php"
+			],
+			[
+				"menu/crea",
+				"resources\\views\\menu\\create.blade.php"
+			],
+			[
+				"alert",
+				"resources\\views\\layouts\\alert.blade.php"
+			],
+			[
+				"menu/cra",
+				"resources\\views\\menu\\create.blade.php"
+			],
+			[
+				"menure",
+				"app\\Repository\\MenuRepository.php"
+			],
+			[
+				"menurepo",
+				"app\\Repository\\MenuRepository.php"
+			],
+			[
+				"MenuCOn",
+				"app\\Http\\Controllers\\MenuController.php"
+			],
+			[
+				"Menu Con",
+				"app\\Http\\Controllers\\MenuController.php"
+			],
+			[
+				"navbar",
+				"resources\\views\\layouts\\admin\\navbar.blade.php"
+			],
+			[
+				"create_ad",
+				"database\\migrations\\2018_06_10_025503_create_admin_migration.php"
+			],
+			[
+				"components/card",
+				"resources\\views\\components\\card.blade.php"
+			],
+			[
+				"app.bl",
+				"resources\\views\\layouts\\app.blade.php"
+			],
+			[
+				"r/web",
+				"routes\\web.php"
+			],
+			[
+				"lay/navba",
+				"resources\\views\\layouts\\navbar.blade.php"
+			],
+			[
+				"app.",
+				"resources\\views\\layouts\\app.blade.php"
+			],
+			[
+				"create_admi",
+				"database\\migrations\\2018_06_10_025503_create_admin_migration.php"
+			],
+			[
+				"Databa",
+				"database\\seeds\\DatabaseSeeder.php"
+			],
+			[
+				"MenuTable",
+				"database\\seeds\\MenuTableSeeder.php"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"menuFac",
+				"database\\factories\\MenuFactory.php"
+			],
+			[
+				"MenuCon",
+				"app\\Http\\Controllers\\MenuController.php"
+			],
+			[
+				"create_adm",
+				"database\\migrations\\2018_06_10_025503_create_admin_migration.php"
+			],
+			[
+				"about.",
+				"resources\\views\\layouts\\about.blade.php"
+			],
+			[
+				"about/in",
+				"resources\\views\\about\\index.blade.php"
+			],
+			[
+				"setting",
+				"config\\settings.php"
+			],
+			[
+				"AboutCOn",
+				"app\\Http\\Controllers\\AboutController.php"
+			],
+			[
+				"topfold",
+				"resources\\views\\components\\topfold.blade.php"
+			],
+			[
+				"create_table",
+				"database\\migrations\\2018_06_12_090835_create_blog_table.php"
+			],
+			[
+				"settings",
+				"config\\settings.php"
+			],
+			[
+				"create_",
+				"database\\migrations\\2014_10_12_000000_create_users_table.php"
+			],
+			[
+				"AbouCon",
+				"app\\Http\\Controllers\\AboutController.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 700.0
+	},
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": false,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 4
+	}
+}

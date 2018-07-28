@@ -1,0 +1,28 @@
+{
+    "name": "themi/gitlab-api",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kevin Pimentel",
+            "email": "PimentelKevin06@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "m4tthumphrey/php-gitlab-api": "^9.9",
+        "php-http/guzzle6-adapter": "^1.1",
+        "symfony/console": "^4.1"
+    },
+    "autoload": {
+        "classmap": [
+
+        ],
+        "psr-4": {
+          "Library\\": "src/"
+        },
+        "files": [
+
+        ]
+    }
+}
